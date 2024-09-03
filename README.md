@@ -24,8 +24,4 @@ Froggy Jumps is an arcade-style game where you control a frog, guiding it to jum
 - **High Score Tracking:** The game saves and displays the highest score achieved.
 - **Smooth Controls:** Responsive controls for a better gaming experience.
 
-## Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/froggy-jumps.git
